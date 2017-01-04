@@ -22,8 +22,8 @@
 #define MOVING_DOWN  1
 #define MOVING_UP    2
 
-const char* ssid = "FroggySoft 2";
-const char* password = "8cf8ec128b";
+const char* ssid = <enter your ssid>;
+const char* password = <enter your password>;
 IPAddress ip(192,168,1,113);  //Node static IP
 IPAddress gateway(192,168,1,1);
 IPAddress subnet(255,255,255,0);
